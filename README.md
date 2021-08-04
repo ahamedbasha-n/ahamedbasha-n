@@ -5,7 +5,7 @@
 Windows.
 ## Languages:
 Python, HTML/CSS, Basics in C & JavaScript.
-## Cloud Service Provider:
+## Cloud Service Providers:
 Google Cloud Platform, Microsoft Azure.
 ## Frameworks:
 Bootstrap,Tailwind CSS, Scrum.
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahamedbasha-n&show_icons=true&theme=tokyonight" alt="Ahamed Basha stats" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedbasha-n" alt="Github Streak Stats"> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
+<br />
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/ahamedbasha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ahamedbasha5" height="30" width="40" /></a>
 <a href="https://twitter.com/al_ahamed786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="al_ahamed786" height="30" width="40" /></a>
