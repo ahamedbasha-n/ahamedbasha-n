@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-![](aboutimg.png)
 # Technical Skills:
 ## Operating System:
 Windows.
