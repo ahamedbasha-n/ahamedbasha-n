@@ -1,38 +1,42 @@
-<!-- ### Hi there 👋 -->
-# Technical Skills:
-## Operating System:
-Windows.
-## Languages:
-Python, HTML/CSS, Basics in C & JavaScript.
-## Cloud Service Providers:
-Google Cloud Platform, Microsoft Azure.
-## Frameworks:
-Bootstrap,Tailwind CSS, Scrum.
-## Libraries:
-NumPy, Matplotlib, Pandas, Seaborn, Streamlit.
-## Developer Tools:
-Git & GitHub, Jupyter Notebook, Visual Studio Code, Microsoft Excel,Figma.
-<!--
-**ahamedbasha-n/ahamedbasha-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- <h3 align="center">Frontend Development | Design | Open source </h3> -->
+<h1>Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    My name is <b>Ahamed Basha</b>. I'm a 20 year old <b>Frontend developer</b> trying to build things for the interweb. I spend my time contributing to open source, writing technical blog posts, occassionally designing UI components and I actively participate and collaborate in events.
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedbasha-n&layout=compact&theme=tokyonight" alt="Ahamed Basha Stats" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahamedbasha-n&show_icons=true&theme=tokyonight" alt="Ahamed Basha stats" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedbasha-n" alt="Github Streak Stats"> </p>
+- Currently learning **Java**
+- Working on an a Video Call Application using **Agora**
+- Oracle Cloud Infrastructure Foundations Certified
+- Actively trying to collaborate on **GitHub**
+- Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
 
-<h2 align="left">Connect with me:</h2>
-<br />
+
+
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="sass" width="40" height="40"/> </a>
+
+</p>
+
+<h2 align="left">Latests posts</h2>
+<ul>
+    <li><a align="left" href="https://ahamedbasha-n.medium.com/agora-web-api-1f9b7bd59377">Agora Web API</a></li>
+    <li><a align="left" href="https://ahamedbasha-n.medium.com/my-favorite-visual-studio-code-a6de1cef6eed">My Favorite Visual Studio Code</a></li>
+    <li><a align="left" href="https://ahamedbasha-n.medium.com/relational-database-design-e92ea6b24899">Relational Database Design</a></li>
+    <li><a align="left" href="https://ahamed5.hashnode.dev/sentiment-analysis-using-symblai-and-postman">Sentiment Analysis using Symbl.ai and Postman</a></li>
+</ul>
+
+<h2 align="left">⚙ Statistics</h2>
+<p align ="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=ahamedbasha-n&show_icons=true&locale=en" alt="Ahamed Basha Stats" width="48%"/>
+   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ahamedbasha-n" alt="Ahamed Basha Stats" width="48%"/>
+</p>
+
+<h2 align="left">Get in touch</h2>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/ahamedbasha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ahamedbasha5" height="30" width="40" /></a>
 <a href="https://twitter.com/al_ahamed786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="al_ahamed786" height="30" width="40" /></a>
