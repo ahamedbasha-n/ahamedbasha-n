@@ -7,7 +7,7 @@
 </p>
 
 - Currently learning **Java**
-- Working on an a Video Call Application using **Agora**
+- Working on a Video Call Application using **Agora**
 - Oracle Cloud Infrastructure Foundations Certified
 - Actively trying to collaborate on **GitHub**
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
