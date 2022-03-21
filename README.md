@@ -19,7 +19,7 @@
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="sass" width="40" height="40"/> </a>
-
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">Latests posts</h2>
