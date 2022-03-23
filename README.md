@@ -45,4 +45,4 @@
 <a href="https://medium.com/@ahamedbasha-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahamedbasha-n" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.buymeacoffee.com/ahamedbasha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+<!-- <a href="https://www.buymeacoffee.com/ahamedbasha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a> -->
