@@ -42,7 +42,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahamed-basha-n-090534190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahamed-basha-n-090534190/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahamedbasha786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahamedbasha786" height="30" width="40" /></a>
 <a href="https://instagram.com/_al_ahamed_?igshid=vj0xylgo6x3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_al_ahamed_?igshid=vj0xylgo6x3v" height="30" width="40" /></a>
-<a href="https://codepen.io/https://codepen.io/ahamedbasha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ahamedbasha5" height="30" width="40" /></a>
+<a href="https://codepen.io/ahamedbasha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ahamedbasha5" height="30" width="40" /></a>
 <a href="https://medium.com/@ahamedbasha-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahamedbasha-n" height="30" width="40" /></a>
 </p>
 
