@@ -7,11 +7,12 @@
 </p>
 
 - Currently working on **Big Data & AWS**
-- Preparing for Cloud Certifications.
+- Preparing for Cloud Certifications
 - Oracle Cloud Infrastructure Foundations Certified
 - Actively trying to collaborate on **GitHub**
 - Building **techbound** Community
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
+- Fun Fact - Lo-fi Listener
 
 
 
