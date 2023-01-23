@@ -26,7 +26,7 @@
 <ul>
     <li><a align="left" href="https://ahamedbasha-n.medium.com/process-topics-using-postman-and-symbl-ai-da71298bfdb5">Process Topics using Postman and Symbl.ai</a></li>
     <li><a align="left" href="https://ahamedbasha-n.medium.com/agora-web-api-1f9b7bd59377">Agora Web API</a></li>
-    <li><a align="left" href="https://ahamedbasha-n.medium.com/my-favorite-visual-studio-code-a6de1cef6eed">My Favorite Visual Studio Code</a></li>
+    <li><a align="left" href="https://medium.com/@ahamedbasha-n/aws-cloud-essentials-part-1-87676aa32ec2">AWS Cloud Essentials: Part 1</a></li>
     <li><a align="left" href="https://ahamedbasha-n.medium.com/relational-database-design-e92ea6b24899">Relational Database Design</a></li>
     <li><a align="left" href="https://ahamed5.hashnode.dev/sentiment-analysis-using-symblai-and-postman">Sentiment Analysis using Symbl.ai and Postman</a></li>
 </ul>
