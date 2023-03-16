@@ -13,7 +13,9 @@
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
 - Fun Fact - Lo-fi Listener
 
+<h2 align="left">Certifications</h2>
 
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/69695103/225660663-33b2c94e-c8de-4947-b741-8c0c2531773a.png)
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
