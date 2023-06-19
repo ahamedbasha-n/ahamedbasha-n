@@ -6,12 +6,12 @@
     My name is <b>Ahamed Basha</b>. I'm a 21 year old <b>Programmer Analyst</b> trying to build things for the interweb. I spend my time contributing to open source, writing technical blog posts, occassionally designing UI components and I actively participate and collaborate in events.
 </p>
 
-- Currently working on **Big Data & AWS**
+- Currently working on **Informatica Intelligent Cloud Services, Azure DevOps, Snowflake**
 - Preparing for Cloud Certifications
-- Oracle Cloud Infrastructure Foundations Certified
 - Actively trying to collaborate on **GitHub**
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
 - Fun Fact - Lo-fi Listener
+- Favourite Fruit - Watermelon🍉
 
 <h2 align="left">Certifications</h2>
 
@@ -19,8 +19,18 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="sass" width="40" height="40"/> </a>
-    
+    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="sass" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="sass" width="40" height="40"/>
 </p>
 
 <h2 align="left">Latests posts</h2>
@@ -39,6 +49,7 @@
 </p>
 
 <h2 align="left">Get in touch</h2>
+
 <p align="left">
 <a href="https://twitter.com/al_ahamed786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="al_ahamed786" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahamed-basha-n-090534190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahamed-basha-n-090534190/" height="30" width="40" /></a>
