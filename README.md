@@ -12,6 +12,7 @@
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
 - Fun Fact - Lo-fi Listener
 - Favourite Fruit - Watermelon🍉
+- Discord ID - ahamed#0994
 
 <h2 align="left">Certifications</h2>
 
@@ -48,7 +49,7 @@
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=ahamedbasha-n" alt="Ahamed Basha Stats" width="48%"/>
 </p>
 
-<h2 align="left">Get in touch</h2>
+<!-- <h2 align="left">Get in touch</h2>
 
 <p align="left">
 <a href="https://twitter.com/al_ahamed786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="al_ahamed786" height="30" width="40" /></a>
