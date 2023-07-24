@@ -8,6 +8,7 @@
 
 - Currently working on **Informatica Intelligent Cloud Services, Azure DevOps, Snowflake**
 - Preparing for Cloud Certifications
+- Learning JavaScript
 - Actively trying to collaborate on **GitHub**
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
 - Fun Fact - Lo-fi Listener
