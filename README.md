@@ -3,7 +3,7 @@
 <h1>Hey there!</h1>
 
 <p align="left">
-    My name is <b>Ahamed Basha</b>. I'm a 21 year old <b>Programmer Analyst</b> trying to build things for the interweb. I spend my time contributing to open source, writing technical blog posts, occassionally designing UI components and I actively participate and collaborate in events.
+    My name is <b>Ahamed Basha</b>. I'm a 22 year old <b>Programmer Analyst</b> trying to build things for the interweb. I spend my time contributing to open source, writing technical blog posts, occassionally designing UI components and I actively participate and collaborate in events.
 </p>
 
 - Currently working on **Informatica Intelligent Cloud Services, Azure DevOps, Snowflake**
