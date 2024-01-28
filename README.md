@@ -1,9 +1,9 @@
 
 <!-- <h3 align="center">Frontend Development | Design | Open source </h3> -->
-<h1>Hey there!</h1>
+<h1>Hey there👋</h1>
 
 <p align="left">
-    My name is <b>Ahamed Basha</b>. I'm a 22 year old <b>Programmer Analyst</b> trying to build things for the interweb. I spend my time contributing to open source, writing technical blog posts, occassionally designing UI components and I actively participate and collaborate in events.
+    I'm <b>Ahamed</b>. I'm a 22 year old <b>Programmer Analyst</b> trying to build things for the interweb. I spend my time contributing to open source, writing technical blog posts, occassionally designing UI components and I actively participate and collaborate in events.
 </p>
 
 - Currently working on **Informatica Intelligent Cloud Services, Azure DevOps, Snowflake**
@@ -14,7 +14,7 @@
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
 - Fun Fact - Lo-fi Listener
 - Favourite Fruit - Watermelon🍉
-- Discord ID - ahamed#0994
+- Discord ID - ahamed_dev
 
 <h2 align="left">Certifications</h2>
 
