@@ -6,9 +6,8 @@
     I'm <b>Ahamed</b>. I'm a 22 year old <b>Programmer Analyst</b> trying to build things for the interweb. I spend my time contributing to open source, writing technical blog posts, occassionally designing UI components and I actively participate and collaborate in events.
 </p>
 
-- Currently working on **Informatica Intelligent Cloud Services, Azure DevOps, Snowflake**
 - Preparing for Cloud Certifications
-- Learning JavaScript
+- Learning Angular
 - Latest GitHub Commit - [LinkFree](https://linkfree.io/ahamedbasha-n) from [@Eddiehub Community](https://www.eddiehub.org/)
 - Actively trying to collaborate on **GitHub**
 - Explore more about me on my [portfolio](https://ahamedbasha-n.github.io/portfolio/)
